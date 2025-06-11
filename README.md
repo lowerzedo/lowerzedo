@@ -1,6 +1,6 @@
 ### Hello there 👋  
 
-#### Software Engineer | Backend Developer | Cloud Engineer
+#### Exploring stuff 🔎 ...
 
 - ⚙️ I use daily: `.py`, `.tf`, `.js`, `.sql`, `.yml`, `.go`
 - ☁️ I’m passionate about **Cloud**, **DevOps**, and **ML**  
