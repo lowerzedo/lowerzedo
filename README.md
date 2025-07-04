@@ -1,4 +1,4 @@
-### Hello there 👋  
+### Hi 👋  
 
 - ⚙️ I use daily: `.py`, `.tf`, `.js`, `.sql`, `.yml`, `.go`
 - ☁️ Passionate about **Cloud**, **DevOps**, and **ML**  
